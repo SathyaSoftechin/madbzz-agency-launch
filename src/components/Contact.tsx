@@ -42,7 +42,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Phone</h4>
-                    <p className="text-muted-foreground">+1 (555) 000-0000</p>
+                    <p className="text-muted-foreground">+91 7766996989</p>
                   </div>
                 </div>
                 
@@ -52,7 +52,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Location</h4>
-                    <p className="text-muted-foreground">Remote & On-site</p>
+                    <p className="text-muted-foreground">First floor, Mounika Towers, 2-32, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033</p>
                   </div>
                 </div>
               </div>
